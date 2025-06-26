@@ -1,7 +1,7 @@
 let src = {
-    age:12,
-    wt:68,
-    ht:180
+    age:15,
+    wt:70,
+    ht:190
 };
 
 let dest = {};
